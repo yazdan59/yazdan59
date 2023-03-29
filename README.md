@@ -1,5 +1,7 @@
-I am a bioinformatician and now a postdoc fellowship at Exposome and Heredity Team at Centre for Epidemiology and Population Health (CESP), France. You could follow our group GitHub page here: (https://github.com/CESP-ExpHer). <br>
-Now, I am working on application of GWAS summary statistics data in Breast and Thyroid cancers.<br>
-I believe in sharing all scripts/codes/analyzed data to the scientific community to allow recalculation all the procedure by other scientists and find any potential flaws/errors for improvment of our understanding about life sciences. That is why I like using GitHub.<br>
-Ph.D. in Bioinformatics <br>
-M.Sc. in Physical Chemistry
+I have a M.Sc. in Physical Chemistry and Ph.D. in Bioinformatics. I am a bioinformatician and currently a postdoctoral fellow with the Exposome and Heredity Team at the Centre for Epidemiology and Population Health (CESP) in France. You can follow our group's GitHub page here: (https://github.com/CESP-ExpHer).
+<br>
+My current work focuses on the application of GWAS summary statistics data in Breast and Thyroid cancers. 
+<br>
+I strongly believe in sharing all scripts, codes, and analyzed data with the scientific community, to allow for recalculation of procedures by other scientists and to identify any potential flaws or errors for the improvement of our understanding of life sciences. This is why I enjoy using GitHub.
+<br>
+Here is also my personal webpage: (https://yazdan59.github.io/).
